@@ -1,5 +1,5 @@
 # AluraStoreLatam
-challenge 2
+challenge 1
 
 Este proyecto tiene como objetivo analizar el desempeño de las cuatro tiendas del Sr. Juan para identificar cuál presenta el menor rendimiento y así tomar una decisión informada sobre cuál vender para invertir en un nuevo negocio con mayor potencial de crecimiento. Para realizar este análisis se evaluaron diferentes indicadores, entre ellos los ingresos totales por tienda, las categorías de productos más vendidas, los productos con mayor número de ventas, las calificaciones promedio de los clientes y los costos promedio de envío.
 
