@@ -1,0 +1,2 @@
+# AluraStoreLatam
+challenge 2
